@@ -1,0 +1,468 @@
+<div class= "mx-auto my-4 p-4" style="max-with: 1000px;
+
+    background-image: url(LINK);
+    background-size: cover; 
+    
+background-position: center; border-radius: 5px;"> ^ Pod LINK dajesz linka do źródła obrazu
+  
+<div class="row justify-content-center">
+<div class="col-auto order-lg-1 d-block d-lg-flex flex-column">
+
+<div class="card mb-4 p-3 border-0" style="flex: 1 1 0; max-width: 232px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+<img class="rounded-circle" 
+    src="LINK" style="width:200px; background-color:#7B68EE;"> < - Pod LINK dajesz linka do źródła obrazu
+    
+<p class="mt-3 mb-0 text-center" 
+  style="font-size: 22px; letter-spacing: 1px; font-variant: common-ligatures; color: #7B68EE">
+    
+    Imię i nazwisko
+  
+</p>
+<p class="mt-1 mb-0 text-center" 
+  style="font-size: 10px; letter-spacing: 1px; font-variant: common-ligatures; color: #7B68EE">
+    
+    Jakiś podtytuł/podpis
+</p>
+<div class="row no-gutters align-items-center my-1">
+<div class="col">
+<hr class="m-1">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-ticket mx-2" style="color: #7B68EE;"></i>
+
+</div>
+<div class="col">
+<hr class="m-0">
+</div>
+</div>
+<p class="text-center text-muted">
+    
+    Cytat itp to dojesz jeśli chesz nowy wers> <br>
+    
+</p>
+<div>
+<div class="row no-gutters align-items-center my-1">
+<div class="col">
+<hr class="m-1">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-ticket mx-2" style="color: #7B68EE;"></i>
+
+</div>
+<div class="col">
+<hr class="m-1">
+</div>
+</div>
+<p class="text-center text-muted">
+    
+    Text • text • text
+<div>
+<div class="row no-gutters align-items-center my-1">
+<div class="col">
+<hr class="m-1">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-ticket mx-2" style="color: #7B68EE;"></i>
+
+</div>
+<div class="col">
+<hr class="m-1">
+</div>
+</div>
+<iframe class="" style="width: 30px; height: 30px; opacity:.01; margin-bottom:-33px;" src="https://www.youtube.com/embed/pEnPq_fa8z4"></iframe>
+    
+  <div class="px-2" style="height: 25px; width: 25px; background-color:  #7B68EE; border-radius:50%"> <i class="fas fa-play " style="color: rgb(250, 250, 250); margin-left:px; margin-top:6px"></i></div>
+  </div>
+    
+    <div class="col"  style="">
+
+   <p class=" mb-1" style="font-weight:400; font-size:1.1rem; color: #7B68EE">Tytuł piosenki</p>
+
+   <p class="" style="font-weight:400; font-size:.8rem; margin-top:-10px; color:#4d4d4d;">by <a class="" style="color: #7B68EE;">wykonawca</a></p>
+   
+</div>
+<div class="row no-gutters align-items-center my-1">
+<div class="col">
+<hr class="m-1">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-ticket mx-2" style="color: #7B68EE;"></i>
+
+</div>
+<div class="col">
+<hr class="m-1">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+  <div class="col-lg d-block d-lg-flex flex-column mt-lg-5 pt-lg-5">
+
+<div class="card mt-lg-5 mb-4 p-3 text-monospace border-0" style="flex: 1 1 0; color: #7B68EE; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+<hr class="m-0" style="position: absolute; top: 32px; right: 64px; left: 40px;">
+<p class="text-right mb-1">
+    
+    <i class="fad fa-paperclip" style="font-size: 32px; color: #7B68EE;"></i>
+
+</p>
+<div class="row no-gutters aligin-items-center">
+<div class="col">
+    
+    NICKNAME
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    AGE
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    GENDER
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    SPICIES
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    OCCUPATION
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    ORIENTATION 
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    
+  
+</div>
+<div class="col-auto mx-2">
+
+</div>
+<div class="col text-right text-muted">
+    
+    
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    VALUE
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    PLAYLIST
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    OWNER
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+</div>
+</div>
+<hr class="w-100 my-2">
+<div class="row no-gutters aligin-items-center">
+
+<div class="col">
+    
+    DESIGNER
+  
+</div>
+<div class="col-auto mx-2">
+|
+</div>
+<div class="col text-right text-muted">
+    
+    text
+  
+
+</div>
+</div>
+<hr class="m-0" style="position: absolute; bottom: 32px; right: 40px; left: 64px;">
+<p>
+    
+    <i class="fad fa-paperclip" style="font-size: 32px; color: #7B68EE;"></i>
+
+</p>
+  
+</div>
+</div>
+</div>
+
+
+<div class="row flex-lg-row-reverse my-4">
+<div class="col-lg-auto text-center">
+    
+    <img class="border-radius: 5px" src="LINK" class="mb-4" style="max-width: 300px;">
+    <!-- ^pagedoll -->
+
+</div>
+<div class="col-lg flex-column">
+<div class="card d-block d-lg-flex mb-4 p-3 border-0" style="flex: 1 1 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+<div class="row no-gutters align-items-center mb-2">
+<div class="col-auto">
+<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #7B68EE;">
+  
+    history
+      
+</p>
+</div>
+<div class="col">
+<hr class="my-0 mx-3">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-scroll" style="font-size: 24px; color: #7B68EE;"></i>
+
+</div>
+</div>
+<div style="flex: 1 1 0; overflow-y: auto;">
+  
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </p>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra quis enim nec accumsan. In hac habitasse platea dictumst. Mauris blandit scelerisque augue et sollicitudin. Integer eget dignissim massa. Cras gravida nulla sit amet justo malesuada vestibulum. Praesent posuere commodo tellus at convallis. Sed in lectus feugiat, hendrerit elit vel, tempor ante. Integer interdum luctus lorem, eu euismod diam sagittis eget. Nulla et tempor augue. Maecenas pulvinar blandit arcu vel fringilla.
+    </p>
+    
+</div>
+<p class="mt-3 text-monospace text-right" style="color: #7B68EE;"><i>
+    
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</i></p>
+</div>
+</div>
+</div>
+
+
+<div class="row justify-content-center align-items-center">
+<div class="col-lg-auto order-lg-1 text-center">
+  
+    <img src="LINK" class="w-100 mb-4" style="max-width: 225px;">
+    <!-- design^-->
+
+</div>
+<div class="col-auto order-lg-2">
+  
+
+  
+<div class="card flex-row flex-lg-column p-2 mb-4 border-0" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+<div class="mr-2 mr-lg-0 mb-lg-2" style="
+
+    background-color: #000000; 
+    
+width: 40px; height: 40px; border-radius: 10%;"></div>
+<div class="mr-2 mr-lg-0 mb-lg-2" style="
+
+    background-color: #000000; 
+    
+width: 40px; height: 40px; border-radius: 10%;"></div>
+<div class="mr-2 mr-lg-0 mb-lg-2" style="
+
+    background-color: #000000; 
+    
+width: 40px; height: 40px; border-radius: 10%;"></div>
+<div class="mr-2 mr-lg-0 mb-lg-2" style="
+
+    background-color: #000000; 
+    
+width: 40px; height: 40px; border-radius: 10%;"></div>
+<div style="
+
+    background-color: #000000; 
+    
+width: 40px; height: 40px; border-radius: 10%;"></div>
+</div>
+</div>
+<div class="col-lg">
+  
+  
+<div class="card mb-2 p-3 border-0" style=" border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+  <div class="row no-gutters align-items-center mb-2">
+<div class="col-auto">
+    
+    <i class="fad fa-user" style="font-size: 24px; color: #7B68EE;"></i>
+</div>
+<div class="col">
+<hr class="my-0 mx-3">
+</div>
+<div class="col-auto">
+<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #7B68EE;">
+  
+    Personality
+      
+</p>
+</div>
+</div>
+<div style="flex: 1 1 0;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra quis enim nec accumsan. In hac habitasse platea dictumst. Mauris blandit scelerisque augue et sollicitudin. Integer eget dignissim massa. Cras gravida nulla sit amet justo malesuada vestibulum. Praesent posuere commodo tellus at convallis. Sed in lectus feugiat, hendrerit elit vel, tempor ante. Integer interdum luctus lorem, eu euismod diam sagittis eget. Nulla et tempor augue. Maecenas pulvinar blandit arcu vel fringilla.
+
+</div>
+</div>
+<div class="card mb-4 p-3 border-0" style="c border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,1);">
+  <div class="row no-gutters align-items-center mb-2">
+<div class="col-auto">
+<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #7B68EE;">
+  
+    Tivia
+      
+</p>
+</div>
+<div class="col">
+<hr class="my-0 mx-3">
+</div>
+<div class="col-auto">
+    
+    <i class="fad fa-star" style="font-size: 24px; color: #7B68EE;"></i>
+
+</div>
+</div>
+<ul class="mb-0 pl-3">
+  
+    <li>
+      <span class="text-body">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      </span>
+    </li>
+    
+    <li>
+      <span class="text-body">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      </span>
+    </li>
+    
+    <li>
+      <span class="text-body">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      </span>
+    </li>
+    
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="text-right" style="font-size: 20px;">
+  <a href="https://toyhou.se/Avan" style="color: #7B68EE;"><i class="far fa-code tooltipster" title="Code by Avan"></i></a>
+</div>
